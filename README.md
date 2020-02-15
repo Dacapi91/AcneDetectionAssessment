@@ -9,8 +9,8 @@ The Journal of dermatology, 2008, vol. 35, no 5, p. 255-260.
 The first method is in the file ```min2012.m``` and was implemented from the paper:  
 
 ```
-MIN, Seonguk, et al. Development and evaluation of an automatic acne lesion detection program using digital image processing.
-Skin Research and Technology, 2013, vol. 19, no 1, p. e423-e432.
+MIN, Seonguk, et al. Development and evaluation of an automatic acne lesion detection program 
+using digital image processing. Skin Research and Technology, 2013, vol. 19, no 1, p. e423-e432.
 ```
 The second method is in file ```Thanapa.m``` and was implemented from the paper:
 
