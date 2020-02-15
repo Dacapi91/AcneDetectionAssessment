@@ -1,6 +1,6 @@
 # Acne Detection and Assessment
 
-This repository gathers three basic image processing implementation in MATLAB to detect face acne. These methods were implemented from available literature. In addition, it poses a method (severity.m) to evaluate severity based on the acne quantity. This severity is clasified into 'Mild', 'Moderate', 'Severe' and 'Very Severe', its criteria was taken from the paper:
+This repository gathers three basic image processing implementation in MATLAB to detect face acne. These methods were implemented from available literature. In addition, it poses a method (severity.m) to evaluate severity based on the acne quantity. This severity is classified into 'Mild', 'Moderate', 'Severe' and 'Very Severe', its criteria were taken from the paper:
 
 HAYASHI, Nobukazu, et al. Establishment of grading criteria for acne severity. The Journal of dermatology, 2008, vol. 35, no 5, p. 255-260.
  
