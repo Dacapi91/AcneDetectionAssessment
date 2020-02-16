@@ -28,6 +28,10 @@ The following images show the output of each method.
 ## Example of the output of Thanapa's method
 ![Image Thanapa's method](https://github.com/Dacapi91/AcneDetectionAssessment/blob/master/Thanapa_Output.png)
 
+## Cite
+
+David Castro Piñol. (2020, February 16). Dacapi91/AcneDetectionAssessment: AcneDetection (Version v1.1). Zenodo. http://doi.org/10.5281/zenodo.3669021
+
 ## License
 
 MIT License
