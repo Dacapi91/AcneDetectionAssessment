@@ -24,16 +24,8 @@ The third method is in the file ```KmeansAcneSegmentation.m``` and uses k-means 
 
 The image example used is ```acne-face-1-10.jpg``` It is an example taken from the images examples in the dataset https://dermnetnz.org/  
 The following images show the output of each method.
-
-**Output of the method Min2012**
-![Image description](https://github.com/Dacapi91/AcneDetectionAssessment/blob/master/Min2012_Output.png)
-
 **Output of the method Thanapa**
 ![Image description](https://github.com/Dacapi91/AcneDetectionAssessment/blob/master/Thanapa_Output.png)
-
-**Output of the kmeans acne segmentation**
-![Image description](https://github.com/Dacapi91/AcneDetectionAssessment/blob/master/KmeansAcneSegmentation_Desired_Output.png)
-
 
 ## License
 
