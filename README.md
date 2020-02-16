@@ -22,7 +22,7 @@ for Embedded Systems (IC-ICTES). IEEE, 2015. p. 1-6.
 
 The third method is in the file ```KmeansAcneSegmentation.m``` and uses k-means for color segmentation. It was implemented from different references. 
 
-The image example used is acne-face-1-10.jpg. It is an example taken from the images examples in the dataset https://dermnetnz.org/  
+The image example used is ```acne-face-1-10.jpg``` It is an example taken from the images examples in the dataset https://dermnetnz.org/  
 The following images show the output of each method.
 
 **Output of the method Min2012**
