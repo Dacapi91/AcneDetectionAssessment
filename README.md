@@ -30,7 +30,7 @@ The following images show the output of each method.
 
 ## Cite
 
-David Castro Piñol. (2020, February 16). Dacapi91/AcneDetectionAssessment: AcneDetection (Version v1.1). Zenodo. http://doi.org/10.5281/zenodo.3669021
+```David Castro Piñol. (2020, February 16). Dacapi91/AcneDetectionAssessment: AcneDetection (Version v1.1). Zenodo. http://doi.org/10.5281/zenodo.3669021```
 
 ## License
 
